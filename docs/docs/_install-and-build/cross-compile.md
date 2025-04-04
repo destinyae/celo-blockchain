@@ -11,7 +11,7 @@ Developers usually have a preferred platform that they feel most comfortable wor
 with all the necessary tools, libraries and environments set up for an optimal workflow.
 However, there's often need to build for either a different CPU architecture, or an
 entirely different operating system; but maintaining a development environment for each
-and switching between the them quickly becomes unwieldy.
+and switching between them quickly becomes unwieldy.
 
 Here we present a very simple way to cross compile Ethereum to various operating systems
 and architectures using a minimal set of prerequisites and a completely containerized
