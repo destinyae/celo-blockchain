@@ -86,7 +86,7 @@ issue notices, e.g. "Fixes #42353".
 
 ### Special Situations And How To Deal With Them
 
-As a reviewer, you may find yourself in one of the sitations below. Here's how to deal
+As a reviewer, you may find yourself in one of the situations below. Here's how to deal
 with those:
 
 * The author doesn't follow up: ping them after a while (i.e. after a few days). If there
